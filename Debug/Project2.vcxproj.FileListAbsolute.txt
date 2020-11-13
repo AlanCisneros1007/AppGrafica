@@ -1,0 +1,8 @@
+C:\Users\Alan Cisneros\source\repos\Project2\Debug\Project2.vcxprojAssemblyReference.cache
+C:\Users\Alan Cisneros\source\repos\Project2\Debug\Project2.LocalizarForm.resources
+C:\Users\Alan Cisneros\source\repos\Project2\Debug\Project2.MyForm.resources
+C:\Users\Alan Cisneros\source\repos\Project2\Debug\Project2.MyForm2.resources
+C:\Users\Alan Cisneros\source\repos\Project2\Debug\Project2.OrdenarForm.resources
+C:\Users\Alan Cisneros\source\repos\Project2\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\Alan Cisneros\source\repos\Project2\Debug\Project2.exe
+C:\Users\Alan Cisneros\source\repos\Project2\Debug\Project2.pdb

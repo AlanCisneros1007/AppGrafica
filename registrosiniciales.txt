@@ -1,0 +1,8 @@
+1950 Maquina-De-Cheetos CocaCola 8661202381 chester@gmail.com
+1951 Maquina-De-Refrescos Pepsi 8661302345 leonel@gmail.com
+1952 Maquina-De-Perforacion Gamma 8112365421 gamma@gmail.com
+1953 Maquina-De-Fresadora Gamma 8112365592123 contactogamma@gmail.com
+1954 Maquina-De-Taladros Sandvick 5523657891 andvick@gmail.com
+1955 Maquina-De-Ranurado Sandvick 5523657992 andvick@gmail.com
+1956 Maquina-De-Roscado Sandvick 5523657092 sandvick@gmail.com
+1957 Maquina-De-Corte-Industrial Sandvick 5523658092 sandvick@gmail.com

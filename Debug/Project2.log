@@ -1,0 +1,12 @@
+﻿  Funciones.cpp
+C:\Users\Alan Cisneros\source\repos\Project2\Funciones.cpp(137,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Alan Cisneros\source\repos\Project2\Funciones.cpp(157,30): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Alan Cisneros\source\repos\Project2\Funciones.cpp(173,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Alan Cisneros\source\repos\Project2\Funciones.cpp(191,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Alan Cisneros\source\repos\Project2\Funciones.cpp(484,20): warning C4018: '<': no coinciden signed/unsigned
+  MyForm.cpp
+C:\Users\Alan Cisneros\source\repos\Project2\MyForm.cpp(9,33): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm2.cpp
+  Generando código...
+  Funciones.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project2.vcxproj -> C:\Users\Alan Cisneros\source\repos\Project2\Debug\Project2.exe
